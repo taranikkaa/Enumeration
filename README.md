@@ -72,6 +72,7 @@ Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
+
 # ![image](https://github.com/Roselineb/Enumeration/assets/128909895/fcb6caf5-5a87-4f19-8835-b48d9bfdb363)
 
 
@@ -89,7 +90,9 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
-# ![image](https://github.com/Roselineb/Enumeration/assets/128909895/d9d40acd-9799-4545-94b5-c39dccc08b8c)
+ 
+ # ![image](https://github.com/Roselineb/Enumeration/assets/128909895/d9d40acd-9799-4545-94b5-c39dccc08b8c)
+
 # ![image](https://github.com/Roselineb/Enumeration/assets/128909895/a84c1a32-cf82-4ee9-9022-c5190c41fa10)
 
 
